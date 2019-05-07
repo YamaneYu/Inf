@@ -22,7 +22,7 @@ function main()
     scene.add( light );
 
     var material = new THREE.MeshLambertMaterial({
-      color: 0xffffff
+      color: 0X8B0000
     });
 
     var geometry = new THREE.BoxGeometry( 1, 1, 1 );
